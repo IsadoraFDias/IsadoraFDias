@@ -2,7 +2,7 @@
 - 🖖Eu sou a Isa
 - 🎓 Formada em Administração de Empresas
 - 💻 Aspirante a Dev FullStack
-- 🌎 Em busca de um mundo melhor
+
 
 
 
