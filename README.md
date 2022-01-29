@@ -2,6 +2,8 @@
 - 🖖Eu sou a Isa
 - 🎓 Formada em Administração de Empresas
 - 💻 Aspirante a Dev FullStack
+- 🚧 Em transição de carreira
+- 🌱 Apaixonada pela natureza e os animais
 
 
 
